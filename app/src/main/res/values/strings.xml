@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EasyScan</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="log_in">LOG IN</string>
+    <string name="Todo">TODO</string>
+    <string name="email">Email</string>
+</resources>

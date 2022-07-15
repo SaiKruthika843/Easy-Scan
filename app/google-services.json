@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66002550438",
+    "project_id": "easyscan-11ec7",
+    "storage_bucket": "easyscan-11ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66002550438:android:c742bafa739c0888fe7e67",
+        "android_client_info": {
+          "package_name": "com.example.easyscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66002550438-mft4e6ek24qsiauv3r4pqo80c2mrm9i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALJI8TSuodt2ZBGEM-YuFA9JAh2Gxabl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66002550438-mft4e6ek24qsiauv3r4pqo80c2mrm9i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
